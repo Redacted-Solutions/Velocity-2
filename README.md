@@ -10,9 +10,9 @@ Currently I'm working on the Tunneling system that goes through servers globally
 
 ## Features:
 * Tunneling (TODO)
-  > Fake IP
-  > Better Ping
+  * Fake IP
+  * Better Ping
 * Lua Engine
-  >  Add Functions
-      > ???
-  > Safer Bytecode (idk)
+  *  Add Functions
+      * ???
+  * Safer Bytecode (idk)
